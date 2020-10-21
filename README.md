@@ -9,7 +9,11 @@ This game was simple to play by kids not much adventurous  game but it's really 
 Characters:
 
 
-*a player -she is the one who control his life to not be hit by the enemy
+*a player -she is the one who control his life to not be hit by the enemy.
+
+![mona](https://user-images.githubusercontent.com/73217815/96692409-96368e00-13b8-11eb-84df-0ef5378e29bd.png)
+
+
  
 Story:
 The story follows the adventures of a game who is tasked to avoid the enemy it’s  the monster will be the player. In this game the player will get the weapon or a sword to get the points.
