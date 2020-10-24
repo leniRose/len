@@ -3,10 +3,6 @@
 
 MetKnight
 
-![logo](https://user-images.githubusercontent.com/73217815/96695452-41951200-13bc-11eb-9cf7-976d0d9beba4.png)
-
-
-https://drive.google.com/file/d/1BW2u-ykUDwFGQpxcxoM_JZSzPua3DSaF/view?usp=sharing
 
 
 Project Description: 
